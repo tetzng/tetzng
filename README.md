@@ -1,5 +1,3 @@
-### Hey, I'm tetzng👋
-
 [![Github](https://img.shields.io/github/followers/tetzng?label=Follow&style=social)](https://github.com/tetzng)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetzng&theme=onedark&hide=html)
